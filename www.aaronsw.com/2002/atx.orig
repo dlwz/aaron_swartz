@@ -1,0 +1,21 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <title>atx, the true structured text format</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head><body>
+
+<h1>atx, the true structured text format</h1>
+
+<p>Tired of typing angle brackets? Hate making your em-dashes all perfect? Want a format without the muss, without the fuss? It&#8217;s here! It&#8217;s atx! <a href="intro">Read more...</a></p>
+
+<h2>Convert to HTML</h2>
+
+<p>Enter your atx document (<a href="intro">intro</a>) below to get it converted to HTML:</p>
+
+<form action="convert" method="post">
+
+<p><textarea cols="80" rows="15" name="text"></textarea><br />
+<input type="submit" value="Convert" /> (<a href="atx.py">source code</a>)</p>
+
+</form>
+
+</body></html>
